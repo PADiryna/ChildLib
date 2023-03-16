@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1, 
+      "title": "Rose Campion and the stolen secret",
+      "author": "Lyn Gardner", 
+      "genre": "Mystery", 
+      "description": "Rose was left by her mother at the door of Campion’s Palace of Variety and Wonders. It’s her home, and she loves it, but she never stops wondering who she really is.."
+    }, 
+    {
+        "id": 2, 
+        "title": "Oliver Twist or the parish boys progress",
+        "author": "Charles Dickens", 
+        "genre": "Novel", 
+        "description": "Oliver is an orphan living on the dangerous London streets with no one but himself to rely on. Fleeing from poverty and hardship, he falls in with a criminal street gang who will not let him go, however hard he tries to escape." 
+    }, 
+    {
+        "id": 3, 
+        "title": "Little women",
+        "author": "Louisa May Alcott", 
+        "genre": "Novel", 
+        "description": "Generations of readers young and old, male and female, have fallen in love with the March sisters of Louisa May Alcott’s most popular and enduring novel, Little Women. Here are talented tomboy and author-to-be Jo, tragically frail Beth, beautiful Meg, and romantic, spoiled Amy, united in their devotion to each other and their struggles to survive in New England during the Civil War." 
+    }, 
+    {
+        "id": 4, 
+        "title": "Moby Dick",
+        "author": "Herman Melville", 
+        "genre": "Novel", 
+        "description": "It is the horrible texture of a fabric that should be woven of ships cables and hawsers. A Polar wind blows through it, and birds of prey hover over it. So Melville wrote of his masterpiece, one of the greatest works of imagination in literary history. In part, Moby-Dick is the story of an eerily compelling madman pursuing an unholy war against a creature as vast and dangerous and unknowable as the sea itself. But more than just a novel of adventure, more than an encyclopaedia of whaling lore and legend, the book can be seen as part of its authors lifelong meditation on America. Written with wonderfully redemptive humour, Moby-Dick is also a profound inquiry into character, faith, and the nature of perception.This edition of Moby-Dick, which reproduces the definitive text of the novel, includes invaluable explanatory notes, along with maps, illustrations, and a glossary of nautical terms." 
+    }, 
+    {
+        "id": 5, 
+        "title": "Mary Poppins",
+        "author": "P.L.Travers", 
+        "genre": "Novel", 
+        "description": "Mary Poppins arrives at Number 17 Cherry Lane, daily life at the Banks house changes forever. She becomes the most unusual babysitter for Jane, Michael, and the twins. A day with Mary Poppins is a day of magic and imagination." 
+    } 
+  ]

@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container" style="margin-top:30px">
+  <div class="row">
+    <div class="col-sm-4">
+      <h4 class="heading">Author</h4>
+      <div class="book">
+      <h3 class="mt-4">{{ book.author }}</h5>
+
+      <div class="book-cover row justify-content-center  mb-4">
+          <a href="{{ url_for('send_file', filename=book.cover) }}"><img src="{{ url_for('send_file', filename=book.cover) }}" class="rounded mr-2" alt="Cover {{ book.title }}"></a>
+      </div>
+      <div>
+      <h4 class="heading">Genre</h4>
+      <div class="book-info mb-4">
+      <p>{{ book.genre.title() }}</p>
+      </div>
+      <h4 class="heading">Description</h4>
+      <div class="book-info mb-4">      
+      <p>{{ book.description }}</p>
+      </div>
+             
+      <form action="#" method="POST">
+        <button class='btn btn-danger btn-sm' type="submit" value="Delete" onclick="return confirm('Delete a book?')"><i class="fa fa-times"></i> Delete</button>
+      </form>
+    </div>   
+ </div> 
+  </div>
+   </div>
+    </div>
+{% endblock %}
